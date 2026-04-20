@@ -1,0 +1,10 @@
+.. _ref-mapping-projection:
+
+=================
+MappingProjection
+=================
+
+.. automodule:: psyneulink.core.components.projections.pathway.mappingprojection
+   :members:
+   :private-members:
+   :exclude-members: Parameters

@@ -1,0 +1,7 @@
+# Documentation build dependencies for docs-new
+sphinx>=7.0
+pydata-sphinx-theme>=0.15
+sphinx-autodoc-typehints
+sphinx-copybutton
+sphinx-autobuild
+sphinx-design

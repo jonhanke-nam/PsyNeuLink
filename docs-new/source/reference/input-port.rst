@@ -1,0 +1,10 @@
+.. _ref-input-port:
+
+=========
+InputPort
+=========
+
+.. automodule:: psyneulink.core.components.ports.inputport
+   :members:
+   :private-members:
+   :exclude-members: Parameters
