@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440.69 325">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        font-family: ArialMT, Arial;
+        font-size: 13.78px;
+      }
+
+      .cls-6 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+        font-size: 16.08px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: lime;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        stroke: red;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="440.69" height="325"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <rect class="cls-7" width="440.69" height="325"/>
+    <text class="cls-6" transform="translate(162.35 311.45)"><tspan x="0" y="0">EM_Composition</tspan></text>
+    <path class="cls-2" d="M153.21,273.32c0,11.42-33.3,20.67-74.39,20.67s-74.39-9.26-74.39-20.67,33.3-20.67,74.39-20.67,74.39,9.26,74.39,20.67"/>
+    <text class="cls-5" transform="translate(27.72 276.88)"><tspan x="0" y="0">VALUE</tspan></text>
+    <text class="cls-5" transform="translate(76.69 276.88)"><tspan x="0" y="0">[VALUE]</tspan></text>
+    <path class="cls-3" d="M120.06,190.64c0,11.42-18.46,20.67-41.24,20.67s-41.24-9.26-41.24-20.67,18.46-20.67,41.24-20.67,41.24,9.26,41.24,20.67"/>
+    <text class="cls-5" transform="translate(54.71 194.2)"><tspan x="0" y="0">STORE</tspan></text>
+    <path class="cls-3" d="M78.82,252.46v-29.19"/>
+    <polygon points="74.8 223.27 78.82 211.78 82.84 223.27 74.8 223.27"/>
+    <polygon class="cls-3" points="74.8 223.27 78.82 211.78 82.84 223.27 74.8 223.27"/>
+    <path class="cls-2" d="M305.63,273.32c0,11.42-29.56,20.67-66.03,20.67s-66.03-9.26-66.03-20.67,29.56-20.67,66.03-20.67,66.03,9.26,66.03,20.67"/>
+    <text class="cls-5" transform="translate(195.39 276.88)"><tspan x="0" y="0">KEY</tspan></text>
+    <text class="cls-5" transform="translate(226.75 276.88)"><tspan x="0" y="0">[QUERY]</tspan></text>
+    <path class="cls-3" d="M341.04,190.64c0,11.42-44.9,20.67-100.29,20.67s-100.29-9.26-100.29-20.67,44.9-20.67,100.29-20.67,100.29,9.26,100.29,20.67"/>
+    <text class="cls-5" transform="translate(168.4 194.2)"><tspan x="0" y="0">KEY</tspan></text>
+    <text class="cls-5" transform="translate(199.76 194.2)"><tspan x="0" y="0">[MATCH</tspan></text>
+    <text class="cls-5" transform="translate(256.37 194.2)"><tspan x="0" y="0">to</tspan></text>
+    <text class="cls-5" transform="translate(271.68 194.2)"><tspan x="0" y="0">KEYS]</tspan></text>
+    <path class="cls-3" d="M239.89,252.46c.12-8.84.27-19.36.4-29.19"/>
+    <polygon points="236.28 223.21 240.46 211.78 244.32 223.32 236.28 223.21"/>
+    <polygon class="cls-3" points="236.28 223.21 240.46 211.78 244.32 223.32 236.28 223.21"/>
+    <path class="cls-3" d="M205.11,255.58c-25.46-13.1-60.17-30.95-86.75-44.62"/>
+    <polygon points="116.25 214.4 107.87 205.58 119.93 207.26 116.25 214.4"/>
+    <polygon class="cls-3" points="116.25 214.4 107.87 205.58 119.93 207.26 116.25 214.4"/>
+    <path class="cls-3" d="M295.07,107.95c0,11.42-24.32,20.67-54.32,20.67s-54.32-9.26-54.32-20.67,24.32-20.67,54.32-20.67,54.32,9.26,54.32,20.67"/>
+    <text class="cls-5" transform="translate(205.72 111.51)"><tspan x="0" y="0">RETRIEVE</tspan></text>
+    <path class="cls-3" d="M240.75,169.77v-29.19"/>
+    <polygon points="236.73 140.58 240.75 129.1 244.77 140.58 236.73 140.58"/>
+    <polygon class="cls-3" points="236.73 140.58 240.75 129.1 244.77 140.58 236.73 140.58"/>
+    <path class="cls-4" d="M224.68,25.27c0,11.42-37.54,20.67-83.85,20.67s-83.85-9.26-83.85-20.67S94.53,4.59,140.84,4.59s83.85,9.26,83.85,20.67"/>
+    <text class="cls-5" transform="translate(81.69 28.83)"><tspan x="0" y="0">KEY</tspan></text>
+    <text class="cls-5" transform="translate(113.06 28.83)"><tspan x="0" y="0">[RETRIEVED]</tspan></text>
+    <path class="cls-3" d="M217.57,88.77c-12.96-10.72-29.32-24.27-43.61-36.09"/>
+    <polygon points="171.21 55.62 164.93 45.2 176.34 49.43 171.21 55.62"/>
+    <polygon class="cls-3" points="171.21 55.62 164.93 45.2 176.34 49.43 171.21 55.62"/>
+    <path class="cls-4" d="M436.22,25.27c0,11.42-42.78,20.67-95.56,20.67s-95.56-9.26-95.56-20.67,42.78-20.67,95.56-20.67,95.56,9.26,95.56,20.67"/>
+    <text class="cls-5" transform="translate(272.33 28.83)"><tspan x="0" y="0">VALUE</tspan></text>
+    <text class="cls-5" transform="translate(321.31 28.83)"><tspan x="0" y="0">[RETRIEVED]</tspan></text>
+    <path class="cls-3" d="M263.92,88.77c12.86-10.65,29.09-24.07,43.3-35.84"/>
+    <polygon points="304.81 49.72 316.22 45.49 309.94 55.91 304.81 49.72"/>
+    <polygon class="cls-3" points="304.81 49.72 316.22 45.49 309.94 55.91 304.81 49.72"/>
+  </g>
+</svg>

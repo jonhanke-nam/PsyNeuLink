@@ -46,6 +46,18 @@ These tutorials build on the basics to cover more advanced topics.
    learning
 
 
+Comprehensive Guide
+-------------------
+
+The original Basics and Primer provides an extensive walkthrough of
+PsyNeuLink's capabilities with detailed examples.
+
+.. toctree::
+   :maxdepth: 1
+
+   basics-and-primer
+
+
 .. note::
 
    Additional tutorials are available as Jupyter notebooks in the

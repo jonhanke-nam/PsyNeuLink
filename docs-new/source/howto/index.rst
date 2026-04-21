@@ -19,3 +19,4 @@ assumes familiarity with PsyNeuLink basics (see :doc:`/tutorials/index`).
    log-and-report
    compile-for-speed
    export-to-mdf
+   contributors-guide
