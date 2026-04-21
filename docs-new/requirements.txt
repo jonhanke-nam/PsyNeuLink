@@ -1,5 +1,6 @@
-# Documentation build dependencies for docs-new
+# Documentation build dependencies for docs-new (MyST Markdown)
 sphinx>=7.0
+myst-parser>=2.0
 pydata-sphinx-theme>=0.15
 sphinx-autodoc-typehints
 sphinx-copybutton
